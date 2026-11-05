@@ -13,3 +13,4 @@ export function actorClaim(d,id){return d.claimByActor.get(id)}
 export function relationName(d,x){return d.taxonomy.relation_types[x.type]?.label||x.type}
 export function stanceName(d,c){return c?d.taxonomy.stances[c.value]?.label||c.value:'Position non documentée'}
 export function linkedEvidence(d,ids){return ids?.map(id=>d.evidenceById.get(id)).filter(Boolean)||[]}
+export const norm = normal;
