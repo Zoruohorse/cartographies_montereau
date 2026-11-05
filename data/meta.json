@@ -1,0 +1,14 @@
+{
+  "id": "project_montereau",
+  "title": "Cartographie territoriale — Data center EDF–OpCore • Montereau",
+  "subtitle": "Ancienne centrale thermique de Montereau-Vallée-de-la-Seine : Vernou-la-Celle-sur-Seine / La Grande-Paroisse. Négociations exclusives annoncées en 2025 ; faits, attentes et vigilances sourcés.",
+  "last_updated": "2026-11-05",
+  "created_at": "2026-11-05",
+  "data_notice": "Cartographie inaugurale, construite à partir de Montereau.xlsx (20 documents) et de publications publiques vérifiées. Les informations attribuées aux élus et aux porteurs restent des déclarations, pas des faits opérationnels constatés. Les articles uniquement accessibles via le classeur sont identifiés.",
+  "method_version": "1.0.0",
+  "central_project": "project_montereau",
+  "baseline": "initial_creation",
+  "source_workbook_count": 20,
+  "source_workbook": "Montereau.xlsx",
+  "source_policy": "source URL obligatoire pour toute preuve publiée; une mention de projet voisin ne justifie pas de lien direct."
+}

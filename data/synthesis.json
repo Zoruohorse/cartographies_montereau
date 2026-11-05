@@ -1,0 +1,169 @@
+{
+  "griefs": [
+    {
+      "title": "⚡ Demande électrique et raccordement",
+      "text": "La puissance annoncée reste « plusieurs centaines de MW » (EDF, novembre 2025). Le dispositif Fast Track permet une accélération sous conditions ; il n’atteste pas une capacité définitivement souscrite ni un raccordement en service.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0011",
+        "evidence_0012"
+      ]
+    },
+    {
+      "title": "💧 Eau et refroidissement",
+      "text": "Selon des responsables interrogés en novembre 2025, une conception à circuit fermé limiterait les prélèvements. Aucune consommation d’eau annuelle contractuelle ou mesurée pour ce site n’a été trouvée.",
+      "evidence_ids": [
+        "evidence_0031"
+      ]
+    },
+    {
+      "title": "🏭 Réhabilitation de la friche",
+      "text": "La réutilisation d’un foncier EDF de 20,6 ha initialement proposé réduit les risques d’artificialisation agricole, mais ne remplace pas une étude d’impact sur les nouvelles emprises et nuisances.",
+      "evidence_ids": [
+        "evidence_0009",
+        "evidence_0014"
+      ]
+    },
+    {
+      "title": "👥 Emplois annoncés et insertion",
+      "text": "Le bulletin municipal évoque environ 100 emplois directs, tandis qu’EDF prévoit plusieurs centaines directs et indirects. Les annonces n’ont pas le même périmètre et ne sont pas des emplois créés.",
+      "evidence_ids": [
+        "evidence_0037",
+        "evidence_0006"
+      ]
+    },
+    {
+      "title": "♨️ Valorisation locale de chaleur",
+      "text": "Le maire de Vernou et la Ville de Montereau souhaitent étudier la récupération de chaleur du futur site, notamment pour des équipements publics. Aucun accord de fourniture ni dimensionnement validé n’est identifié.",
+      "evidence_ids": [
+        "evidence_0028",
+        "evidence_0032"
+      ]
+    },
+    {
+      "title": "🗣️ Dialogue et acceptabilité",
+      "text": "Les trois maires ont demandé un dialogue transparent avec les habitants. Aucune opposition locale structurée au seul projet Montereau n’est démontrée par le lot, mais l’absence de détection ne garantit pas un consensus.",
+      "evidence_ids": [
+        "evidence_0020"
+      ]
+    },
+    {
+      "title": "🚢 Transport pendant le chantier",
+      "text": "Le bulletin municipal mentionne la possibilité d’acheminer des éléments par la Seine. Il s’agit d’une orientation politique, pas d’un marché logistique signé.",
+      "evidence_ids": [
+        "evidence_0033"
+      ]
+    },
+    {
+      "title": "⚖️ Critiques nationales / distinction Fouju",
+      "text": "Le député Arnaud Saint-Martin s’interroge sur les coûts et usages des grands data centers, particulièrement Fouju ; il n’exprime pas d’opposition formelle à la friche de Montereau. Ne pas agréger les oppositions de Fouju au réseau de Montereau.",
+      "evidence_ids": [
+        "evidence_0036",
+        "evidence_0039"
+      ]
+    }
+  ],
+  "vigilance": [
+    {
+      "title": "Stade juridique du partenariat",
+      "text": "Le communiqué EDF documente des négociations exclusives lancées le 17 novembre 2025. Aucun acte final plus récent, permis ou démarrage avéré ne ressort des sources retenues au 5 novembre 2026.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0044"
+      ]
+    },
+    {
+      "title": "Calendrier 2027",
+      "text": "La première mise en service en 2027 reste une échéance annoncée en 2025, non une date contractuelle vérifiée.",
+      "evidence_ids": [
+        "evidence_0007"
+      ]
+    },
+    {
+      "title": "Puissance non figée",
+      "text": "Ne pas convertir les « plusieurs centaines de MW » en 700 MW ou 1 GW en reprenant les enveloppes générales du mécanisme Fast Track.",
+      "evidence_ids": [
+        "evidence_0004",
+        "evidence_0012"
+      ]
+    },
+    {
+      "title": "Différence foncier / bâti",
+      "text": "Les 20,6 ha renvoient au terrain proposé par EDF à l’AMI de mars 2025 et non à la surface finale des constructions.",
+      "evidence_ids": [
+        "evidence_0009"
+      ]
+    },
+    {
+      "title": "Hauteur et insertion paysagère",
+      "text": "Une limitation de hauteur à 10 mètres est mentionnée dans le reportage local de 2025 ; aucun permis opposable vérifié ne confirme cette hauteur définitive.",
+      "evidence_ids": [
+        "evidence_0043"
+      ]
+    },
+    {
+      "title": "Circulation et trafic routier",
+      "text": "Le maire de Vernou avance une possible diminution des nuisances liées à l’ancienne activité de granulats. L’effet net sur la circulation du futur chantier reste à étudier.",
+      "evidence_ids": [
+        "evidence_0029"
+      ]
+    },
+    {
+      "title": "Directs / indirects",
+      "text": "Une centaine d’emplois directs est évoquée localement ; plusieurs centaines directs et indirects par EDF : chiffres compatibles selon le périmètre, tous prospectifs.",
+      "evidence_ids": [
+        "evidence_0037",
+        "evidence_0006"
+      ]
+    },
+    {
+      "title": "Chaleur et hydraulique",
+      "text": "Les opportunités de récupération de chaleur et les déclarations sur le refroidissement doivent être confirmées dans des dossiers techniques propres au projet.",
+      "evidence_ids": [
+        "evidence_0032",
+        "evidence_0031"
+      ]
+    },
+    {
+      "title": "Communes et responsabilités",
+      "text": "Projet situé à La Grande-Paroisse et Vernou-la-Celle-sur-Seine ; Montereau-Fault-Yonne participe au dialogue mais n’est pas le territoire foncier d’implantation.",
+      "evidence_ids": [
+        "evidence_0002",
+        "evidence_0020"
+      ]
+    },
+    {
+      "title": "Opposition non documentée localement",
+      "text": "Les critiques générales des data centers et les mobilisations de Fouju ne doivent pas être transposées à Montereau. Aucun collectif anti-projet nommément étayé n’a été retenu.",
+      "evidence_ids": [
+        "evidence_0036",
+        "evidence_0039"
+      ]
+    },
+    {
+      "title": "Éviter les partenariats éducatifs fictifs",
+      "text": "EDF Lab Les Renardières et les campus de formation sont proposés comme écosystème potentiel, sans contractualisation prouvée avec OpCore.",
+      "evidence_ids": [
+        "evidence_0034"
+      ]
+    }
+  ],
+  "sources": [
+    "source_0001",
+    "source_0003",
+    "source_0004",
+    "source_0005",
+    "source_0006",
+    "source_0007",
+    "source_0008",
+    "source_0009",
+    "source_0010",
+    "source_0011",
+    "source_0016",
+    "source_0017",
+    "source_0018",
+    "source_0019",
+    "source_0020"
+  ],
+  "method": "Enjeux et griefs attribués aux acteurs ou formulés comme questions de vigilance ; aucune appréciation présentée comme un dommage constaté sans étude propre au site."
+}

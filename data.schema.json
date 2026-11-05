@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Montereau territorial intelligence bundle",
+  "description": "Shared JSON reference model consumed by cards and network views. Run validate.py for cross-file references.",
+  "type": "object",
+  "properties": {
+    "actors": {"type": "array", "items": {"type": "object", "required": ["id", "name", "categories"]}},
+    "claims": {"type": "array", "items": {"type": "object", "required": ["id", "subject_id", "value", "evidence_ids"]}},
+    "evidence": {"type": "array", "items": {"type": "object", "required": ["id", "source_id", "text"]}},
+    "relations": {"type": "array", "items": {"type": "object", "required": ["id", "source_id", "target_id", "type", "evidence_ids"]}},
+    "sources": {"type": "array", "items": {"type": "object", "required": ["id", "title", "publisher", "url"]}}
+  },
+  "required": ["actors", "claims", "evidence", "relations", "sources"]
+}

@@ -1,0 +1,152 @@
+{
+  "project_status": "Négociations exclusives annoncées le 17 novembre 2025 ; état final non vérifié au 5 novembre 2026",
+  "project_summary": "Projet industriel de data center OpCore sur l’ancienne centrale EDF dite de Montereau, située sur les territoires de La Grande-Paroisse et Vernou-la-Celle-sur-Seine.",
+  "fact_sheet": [
+    {
+      "label": "Investissement",
+      "value": "Environ 4 milliards d’euros",
+      "qualifier": "Annonce OpCore / EDF de novembre 2025",
+      "evidence_ids": [
+        "evidence_0003"
+      ]
+    },
+    {
+      "label": "Puissance",
+      "value": "Plusieurs centaines de MW",
+      "qualifier": "Puissance exacte et nature (appelée vs IT) non précisées",
+      "evidence_ids": [
+        "evidence_0004"
+      ]
+    },
+    {
+      "label": "Foncier initial",
+      "value": "20,6 ha",
+      "qualifier": "Emprise foncière de l’AMI de mars 2025, pas bâti autorisé",
+      "evidence_ids": [
+        "evidence_0009"
+      ]
+    },
+    {
+      "label": "Commune(s)",
+      "value": "Vernou-la-Celle-sur-Seine et La Grande-Paroisse",
+      "qualifier": "Montereau-Fault-Yonne est éponyme mais hors du terrain",
+      "evidence_ids": [
+        "evidence_0002"
+      ]
+    },
+    {
+      "label": "Emplois",
+      "value": "~100 directs, plusieurs centaines directs et indirects",
+      "qualifier": "Deux périmètres d’annonces, non réalisés",
+      "evidence_ids": [
+        "evidence_0037",
+        "evidence_0006"
+      ]
+    },
+    {
+      "label": "Mise en service",
+      "value": "2027, première phase",
+      "qualifier": "Calendrier annoncé en 2025, non confirmé comme date réelle",
+      "evidence_ids": [
+        "evidence_0007"
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "date": "2004",
+      "period_precision": "year",
+      "status": "historical",
+      "title": "Arrêt définitif de la centrale à charbon",
+      "details": "Fin de l’activité thermique d’origine selon EDF.",
+      "evidence_ids": [
+        "evidence_0005"
+      ]
+    },
+    {
+      "date": "2011",
+      "period_precision": "year",
+      "status": "historical",
+      "title": "Démolition de bâtiments de la centrale",
+      "details": "Requalification de la friche industrielle évoquée dans la communication des élus.",
+      "evidence_ids": [
+        "evidence_0009"
+      ]
+    },
+    {
+      "date": "2025-03-03",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Appel à manifestation d’intérêt EDF",
+      "details": "Sélection d’un projet numérique sur foncier EDF.",
+      "evidence_ids": [
+        "evidence_0010",
+        "evidence_0009"
+      ]
+    },
+    {
+      "date": "2025-05",
+      "period_precision": "month",
+      "status": "completed",
+      "title": "Site labellisé Fast Track",
+      "details": "Montereau figure dans la première série de sites Fast Track.",
+      "evidence_ids": [
+        "evidence_0011",
+        "evidence_0038"
+      ]
+    },
+    {
+      "date": "2025-11-17",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "EDF–OpCore : négociations exclusives annoncées",
+      "details": "Investissement d’environ 4 Md€ et puissance de plusieurs centaines de MW.",
+      "evidence_ids": [
+        "evidence_0001",
+        "evidence_0003"
+      ]
+    },
+    {
+      "date": "2027",
+      "period_precision": "year",
+      "status": "forecast",
+      "title": "Première mise en service envisagée",
+      "details": "Calendrier annoncé en 2025 et non confirmé comme réalisation au 05/11/2026.",
+      "evidence_ids": [
+        "evidence_0007"
+      ]
+    }
+  ],
+  "red_flags": [
+    {
+      "label": "Puissance IT",
+      "status": "unknown",
+      "description": "Aucun MW IT propre au projet confirmé."
+    },
+    {
+      "label": "Conventions de raccordement",
+      "status": "unknown",
+      "description": "Pas de convention signée identifiée dans les ressources."
+    },
+    {
+      "label": "Autorisations vs Fast Track",
+      "status": "distinct_steps",
+      "description": "La qualification Fast Track ne remplace pas les autorisations ni les travaux de raccordement ; voir preuve evidence id."
+    },
+    {
+      "label": "Permis et autorisations environnementales",
+      "status": "unknown",
+      "description": "Dossiers finaux non identifiés dans le corpus retenu."
+    },
+    {
+      "label": "Consommation hydrique",
+      "status": "unknown",
+      "description": "Aucune valeur annuelle chiffrée et confirmée."
+    },
+    {
+      "label": "Collectifs de mobilisation locale",
+      "status": "not_identified",
+      "description": "Pas d’opposants nommés de façon attribuable à ce seul projet."
+    }
+  ]
+}

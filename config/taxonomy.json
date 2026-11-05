@@ -1,0 +1,151 @@
+{
+  "categories": {
+    "all": {
+      "label": "Tous",
+      "color": "#64748b"
+    },
+    "project": {
+      "label": "Projet et foncier",
+      "color": "#25324f"
+    },
+    "porteurs": {
+      "label": "Porteurs et investisseurs",
+      "color": "#4553a7"
+    },
+    "energie": {
+      "label": "Électricité et régulation",
+      "color": "#8254c9"
+    },
+    "elus-fav": {
+      "label": "Élus et communes favorables",
+      "color": "#2e73b9"
+    },
+    "etat": {
+      "label": "État et stratégie nationale",
+      "color": "#586bb5"
+    },
+    "analystes": {
+      "label": "Analyses et critiques générales",
+      "color": "#ae5365"
+    },
+    "orgs": {
+      "label": "Institutions territoriales",
+      "color": "#2a9c91"
+    },
+    "territoire": {
+      "label": "Communes et territoires",
+      "color": "#329eac"
+    },
+    "formation": {
+      "label": "Formation et recherche",
+      "color": "#4b9b6f"
+    },
+    "vigilance": {
+      "label": "Points de vigilance",
+      "color": "#d29234"
+    },
+    "medias": {
+      "label": "Médias",
+      "color": "#8190a5"
+    }
+  },
+  "stances": {
+    "all": {
+      "label": "Toutes positions",
+      "color": "#64748b"
+    },
+    "opposed": {
+      "label": "Opposé au projet",
+      "color": "#d65d59"
+    },
+    "favorable": {
+      "label": "Favorable ou soutien",
+      "color": "#3da784"
+    },
+    "neutral": {
+      "label": "Prudent / position non établie",
+      "color": "#d4a044"
+    }
+  },
+  "certainty_levels": {
+    "high": {
+      "label": "Haute"
+    },
+    "medium": {
+      "label": "Moyenne"
+    },
+    "low": {
+      "label": "Faible"
+    }
+  },
+  "relation_types": {
+    "located_at": {
+      "label": "Implanté sur",
+      "directed": true
+    },
+    "located_in": {
+      "label": "Situé sur le territoire de",
+      "directed": true
+    },
+    "owned_by": {
+      "label": "Propriété foncière de",
+      "directed": true
+    },
+    "developed_by": {
+      "label": "Développement envisagé par",
+      "directed": true
+    },
+    "negotiates_with": {
+      "label": "Négocie avec",
+      "directed": false
+    },
+    "joint_venture_of": {
+      "label": "Coentreprise de",
+      "directed": true
+    },
+    "grid_planning_with": {
+      "label": "Cadre de raccordement",
+      "directed": false
+    },
+    "regulates": {
+      "label": "Cadre de régulation",
+      "directed": true
+    },
+    "supports": {
+      "label": "Soutien documenté",
+      "directed": true
+    },
+    "represents": {
+      "label": "Représente / élu de",
+      "directed": true
+    },
+    "works_for": {
+      "label": "Dirige / travaille pour",
+      "directed": true
+    },
+    "raises_concern": {
+      "label": "Émet une critique générale",
+      "directed": true
+    },
+    "raises_issue": {
+      "label": "Point de vigilance",
+      "directed": true
+    },
+    "proposes": {
+      "label": "Propose / demande",
+      "directed": true
+    },
+    "supports_argument": {
+      "label": "Argument stratégique annoncé",
+      "directed": true
+    },
+    "mentions": {
+      "label": "Évoque sans partenariat établi",
+      "directed": true
+    },
+    "covered_by": {
+      "label": "Couverture médiatique",
+      "directed": true
+    }
+  }
+}

@@ -1,0 +1,758 @@
+[
+  {
+    "id": "project_montereau",
+    "type": "project",
+    "name": "Data center EDF–OpCore — Montereau-Vallée-de-la-Seine",
+    "short_name": "Data center EDF–OpCore — Mo…",
+    "description": "Projet de data center de plusieurs centaines de MW annoncé en novembre 2025. OpCore et EDF ont ouvert des négociations exclusives. Implantation à Vernou-la-Celle-sur-Seine et La Grande-Paroisse.",
+    "roles": [
+      {
+        "label": "Projet central"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "PROJECT"
+  },
+  {
+    "id": "actor_0001",
+    "type": "site",
+    "name": "Ancienne centrale thermique EDF — Montereau",
+    "short_name": "Ancienne centrale thermique…",
+    "description": "Terrain industriel anciennement affecté à une centrale au charbon puis au fioul, arrêtée en 2004 et démantelée en 2011 ; 20,6 ha proposés en mars 2025.",
+    "roles": [
+      {
+        "label": "Foncier industriel"
+      }
+    ],
+    "categories": [
+      "project"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "site"
+  },
+  {
+    "id": "actor_0002",
+    "type": "territory",
+    "name": "Vernou-la-Celle-sur-Seine",
+    "short_name": "Vernou-la-Celle-sur-Seine",
+    "description": "L’une des deux communes physiquement concernées par le site EDF de Montereau.",
+    "roles": [
+      {
+        "label": "Commune d’implantation"
+      }
+    ],
+    "categories": [
+      "territoire"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "vernou"
+  },
+  {
+    "id": "actor_0003",
+    "type": "territory",
+    "name": "La Grande-Paroisse",
+    "short_name": "La Grande-Paroisse",
+    "description": "L’une des deux communes physiquement concernées par le site EDF de Montereau.",
+    "roles": [
+      {
+        "label": "Commune d’implantation"
+      }
+    ],
+    "categories": [
+      "territoire"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "grande"
+  },
+  {
+    "id": "actor_0004",
+    "type": "territory",
+    "name": "Montereau-Fault-Yonne",
+    "short_name": "Montereau-Fault-Yonne",
+    "description": "Commune voisine dont le nom désigne historiquement la centrale, mais qui n’héberge pas le foncier du projet.",
+    "roles": [
+      {
+        "label": "Commune du bassin d’emploi"
+      }
+    ],
+    "categories": [
+      "territoire"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "montereau"
+  },
+  {
+    "id": "actor_0005",
+    "type": "organization",
+    "name": "EDF",
+    "short_name": "EDF",
+    "description": "Propriétaire du foncier industriel ; organise l’AMI de mars 2025 et engage des négociations exclusives avec OpCore en novembre 2025.",
+    "roles": [
+      {
+        "label": "Foncier et accompagnement électrique"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "EDF"
+  },
+  {
+    "id": "actor_0006",
+    "type": "organization",
+    "name": "OpCore",
+    "short_name": "OpCore",
+    "description": "Coentreprise du groupe iliad et de fonds gérés par InfraVia ; opérateur présélectionné pour développer le futur data center.",
+    "roles": [
+      {
+        "label": "Porteur opérationnel"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Opcore"
+  },
+  {
+    "id": "actor_0007",
+    "type": "organization",
+    "name": "Groupe iliad",
+    "short_name": "Groupe iliad",
+    "description": "Actionnaire de la coentreprise OpCore, en association avec des fonds gérés par InfraVia.",
+    "roles": [
+      {
+        "label": "Coentreprise / investisseur"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "iliad"
+  },
+  {
+    "id": "actor_0008",
+    "type": "organization",
+    "name": "InfraVia Capital Partners",
+    "short_name": "InfraVia Capital Partners",
+    "description": "Gestionnaire de fonds investisseurs dans OpCore, via la coentreprise avec iliad.",
+    "roles": [
+      {
+        "label": "Coentreprise / fonds"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "InfraVia"
+  },
+  {
+    "id": "actor_0009",
+    "type": "organization",
+    "name": "RTE",
+    "short_name": "RTE",
+    "description": "Gestionnaire du réseau électrique de transport et du mécanisme de raccordement Fast Track auquel le site de Montereau est éligible.",
+    "roles": [
+      {
+        "label": "Raccordement très haute tension"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "RTE"
+  },
+  {
+    "id": "actor_0010",
+    "type": "institution",
+    "name": "Commission de régulation de l’énergie",
+    "short_name": "Commission de régulation de…",
+    "description": "Autorité de régulation ayant approuvé en 2025 le cadre du raccordement Fast Track ; cela ne constitue pas un permis accordé au data center.",
+    "roles": [
+      {
+        "label": "Régulation du dispositif"
+      }
+    ],
+    "categories": [
+      "energie"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "CRE"
+  },
+  {
+    "id": "actor_0011",
+    "type": "institution",
+    "name": "État français",
+    "short_name": "État français",
+    "description": "Pilote la stratégie d’attractivité des centres de calcul et le cadre Fast Track ; soutien politique documenté au projet annoncé en 2025.",
+    "roles": [
+      {
+        "label": "Soutien national"
+      }
+    ],
+    "categories": [
+      "etat"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Etat"
+  },
+  {
+    "id": "actor_0012",
+    "type": "person",
+    "name": "Bernard Fontana",
+    "short_name": "Bernard Fontana",
+    "description": "PDG d’EDF, promoteur du recours au patrimoine industriel et à l’électricité bas carbone dans le partenariat avec OpCore.",
+    "roles": [
+      {
+        "label": "PDG d’EDF"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Fontana"
+  },
+  {
+    "id": "actor_0013",
+    "type": "person",
+    "name": "Thomas Reynaud",
+    "short_name": "Thomas Reynaud",
+    "description": "Directeur général du groupe iliad, soutenant la construction d’un grand centre de calcul pour l’IA et la souveraineté numérique.",
+    "roles": [
+      {
+        "label": "Directeur général du groupe iliad"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Reynaud"
+  },
+  {
+    "id": "actor_0014",
+    "type": "person",
+    "name": "Vincent Levita",
+    "short_name": "Vincent Levita",
+    "description": "Fondateur et président d’InfraVia Capital Partners, se prononçant favorablement sur l’accord annoncé avec EDF.",
+    "roles": [
+      {
+        "label": "Fondateur / président InfraVia"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Levita"
+  },
+  {
+    "id": "actor_0015",
+    "type": "person",
+    "name": "Arnaud de Bermingham",
+    "short_name": "Arnaud de Bermingham",
+    "description": "Président d’OpCore, évoque les dispositifs environnementaux et les modalités techniques à l’étude lors de l’annonce locale.",
+    "roles": [
+      {
+        "label": "Président d’OpCore"
+      }
+    ],
+    "categories": [
+      "porteurs"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Bermingham"
+  },
+  {
+    "id": "actor_0016",
+    "type": "person",
+    "name": "Anne Le Hénanff",
+    "short_name": "Anne Le Hénanff",
+    "description": "Ministre déléguée à l’IA et au numérique lors de l’annonce de novembre 2025, soutien politique explicite au partenariat EDF–OpCore.",
+    "roles": [
+      {
+        "label": "Soutien ministériel en 2025"
+      }
+    ],
+    "categories": [
+      "etat"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "LeHenanff"
+  },
+  {
+    "id": "actor_0017",
+    "type": "person",
+    "name": "Roland Lescure",
+    "short_name": "Roland Lescure",
+    "description": "Ministre de l’Économie lors de l’annonce du 17 novembre 2025, défendant l’investissement et les emplois attendus.",
+    "roles": [
+      {
+        "label": "Soutien ministériel en 2025"
+      }
+    ],
+    "categories": [
+      "etat"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Lescure"
+  },
+  {
+    "id": "actor_0018",
+    "type": "person",
+    "name": "James Chéron",
+    "short_name": "James Chéron",
+    "description": "Maire de Montereau-Fault-Yonne et président de la CC du Pays de Montereau ; favorable sous conditions d’emploi, concertation et intégration environnementale.",
+    "roles": [
+      {
+        "label": "Maire de Montereau / président CCPM"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Cheron"
+  },
+  {
+    "id": "actor_0019",
+    "type": "person",
+    "name": "Emmanuel Ledoux",
+    "short_name": "Emmanuel Ledoux",
+    "description": "Maire de La Grande-Paroisse, favorable à la reconversion de la friche en demandant un bénéfice pour l’emploi local et une concertation transparente.",
+    "roles": [
+      {
+        "label": "Maire de La Grande-Paroisse"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Ledoux"
+  },
+  {
+    "id": "actor_0020",
+    "type": "person",
+    "name": "Alain Momon",
+    "short_name": "Alain Momon",
+    "description": "Maire de Vernou-la-Celle-sur-Seine, défend le principe de réhabilitation industrielle en soulignant notamment l’emploi et une utilisation possible de chaleur fatale.",
+    "roles": [
+      {
+        "label": "Maire de Vernou-la-Celle-sur-Seine"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Momon"
+  },
+  {
+    "id": "actor_0021",
+    "type": "person",
+    "name": "Jean-Louis Thiériot",
+    "short_name": "Jean-Louis Thiériot",
+    "description": "Député de Seine-et-Marne favorable aux centres de données, avec des déclarations sur le site de Vernou ; ses affirmations sur l’eau et les emplois restent attribuées.",
+    "roles": [
+      {
+        "label": "Député / soutien déclaré"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "Thierot"
+  },
+  {
+    "id": "actor_0022",
+    "type": "person",
+    "name": "Arnaud Saint-Martin",
+    "short_name": "Arnaud Saint-Martin",
+    "description": "Député de Seine-et-Marne formulant des critiques générales sur les data centers et Fouju, tout en considérant favorablement la réutilisation d’une friche ; pas d’opposition directe établie à Montereau.",
+    "roles": [
+      {
+        "label": "Député / position nuancée"
+      }
+    ],
+    "categories": [
+      "analystes"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "SaintMartin"
+  },
+  {
+    "id": "actor_0023",
+    "type": "institution",
+    "name": "Ville de Montereau-Fault-Yonne",
+    "short_name": "Ville de Montereau-Fault-Yo…",
+    "description": "Municipalité voisine participant aux échanges territoriaux et relayant le projet dans son bulletin municipal.",
+    "roles": [
+      {
+        "label": "Collectivité associée"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "villeM"
+  },
+  {
+    "id": "actor_0024",
+    "type": "institution",
+    "name": "Commune de La Grande-Paroisse",
+    "short_name": "Commune de La Grande-Paroisse",
+    "description": "Collectivité sur laquelle s’étend une partie du terrain d’implantation ; le maire s’est exprimé sur l’emploi et l’insertion.",
+    "roles": [
+      {
+        "label": "Collectivité hôte"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "villeGP"
+  },
+  {
+    "id": "actor_0025",
+    "type": "institution",
+    "name": "Commune de Vernou-la-Celle-sur-Seine",
+    "short_name": "Commune de Vernou-la-Celle-…",
+    "description": "Collectivité sur laquelle s’étend une partie du terrain ; les élus ont exprimé des exigences sociales et environnementales.",
+    "roles": [
+      {
+        "label": "Collectivité hôte"
+      }
+    ],
+    "categories": [
+      "elus-fav"
+    ],
+    "display_in_cards": true,
+    "updated_at": "2026-11-05",
+    "slug": "villeV"
+  },
+  {
+    "id": "actor_0026",
+    "type": "institution",
+    "name": "Communauté de communes du Pays de Montereau",
+    "short_name": "Communauté de communes du P…",
+    "description": "Intercommunalité présidée en 2026 par James Chéron, en lien avec le territoire de Montereau et La Grande-Paroisse.",
+    "roles": [
+      {
+        "label": "Intercommunalité"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "CCPM"
+  },
+  {
+    "id": "actor_0027",
+    "type": "institution",
+    "name": "Communauté de communes Moret Seine et Loing",
+    "short_name": "Communauté de communes More…",
+    "description": "Intercommunalité de Vernou-la-Celle-sur-Seine ; Alain Momon y exerce des responsabilités, sans accord spécifique connu sur le data center.",
+    "roles": [
+      {
+        "label": "Intercommunalité"
+      }
+    ],
+    "categories": [
+      "orgs"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "CCMSL"
+  },
+  {
+    "id": "actor_0028",
+    "type": "institution",
+    "name": "EDF Lab Les Renardières",
+    "short_name": "EDF Lab Les Renardières",
+    "description": "Centre de recherche EDF voisin cité par les élus dans une réflexion sur les futures formations ; aucun partenariat contractuel local établi.",
+    "roles": [
+      {
+        "label": "Pôle R&D de proximité"
+      }
+    ],
+    "categories": [
+      "formation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "EDF_Lab"
+  },
+  {
+    "id": "actor_0029",
+    "type": "initiative",
+    "name": "Campus d’excellence Énergie Durable",
+    "short_name": "Campus d’excellence Énergie…",
+    "description": "Programme de formation du territoire cité comme piste d’articulation avec l’emploi ; aucune convention formalisée avec OpCore établie.",
+    "roles": [
+      {
+        "label": "Formation envisagée"
+      }
+    ],
+    "categories": [
+      "formation"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "CampusEDU"
+  },
+  {
+    "id": "actor_0030",
+    "type": "media",
+    "name": "actu.fr / La République de Seine-et-Marne",
+    "short_name": "actu.fr / La République de …",
+    "description": "Presse locale ayant publié plusieurs enquêtes et interviews sur le futur centre de données.",
+    "roles": [
+      {
+        "label": "Couverture presse"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "media_actu"
+  },
+  {
+    "id": "actor_0031",
+    "type": "media",
+    "name": "Le Parisien",
+    "short_name": "Le Parisien",
+    "description": "Presse ayant documenté les annonces, le calendrier, la mobilisation institutionnelle et les hypothèses d’emploi.",
+    "roles": [
+      {
+        "label": "Couverture presse"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "media_parisien"
+  },
+  {
+    "id": "actor_0032",
+    "type": "media",
+    "name": "Next",
+    "short_name": "Next",
+    "description": "Média du numérique ayant détaillé l’AMI et les négociations EDF–OpCore.",
+    "roles": [
+      {
+        "label": "Couverture presse"
+      }
+    ],
+    "categories": [
+      "medias"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "media_next"
+  },
+  {
+    "id": "actor_0033",
+    "type": "issue",
+    "name": "Capacité électrique et raccordement",
+    "short_name": "Capacité électrique et racc…",
+    "description": "Distinction indispensable entre plusieurs centaines de MW envisagées, capacités Fast Track, raccordement contractuel et alimentation réellement livrée.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_grid"
+  },
+  {
+    "id": "actor_0034",
+    "type": "issue",
+    "name": "Eau et refroidissement",
+    "short_name": "Eau et refroidissement",
+    "description": "Promesse de refroidissement en circuit fermé relayée dans la presse ; spécifications de consommation vérifiées indisponibles.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_water"
+  },
+  {
+    "id": "actor_0035",
+    "type": "issue",
+    "name": "Chaleur fatale et usages locaux",
+    "short_name": "Chaleur fatale et usages lo…",
+    "description": "Hypothèse de récupération de chaleur pour équipements publics, notamment piscine de Vernou, sans projet technique signé identifié.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_heat"
+  },
+  {
+    "id": "actor_0036",
+    "type": "issue",
+    "name": "Emploi local et clauses d’insertion",
+    "short_name": "Emploi local et clauses d’i…",
+    "description": "Cent emplois directs évoqués par les élus, plusieurs centaines directs et indirects selon EDF ; chiffres annoncés, non constatés.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_jobs"
+  },
+  {
+    "id": "actor_0037",
+    "type": "issue",
+    "name": "Dialogue public et transparence",
+    "short_name": "Dialogue public et transpar…",
+    "description": "Demandes explicites de concertation et de présentation du projet aux habitants ; tenue effective des réunions non systématiquement établie.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_dialogue"
+  },
+  {
+    "id": "actor_0038",
+    "type": "issue",
+    "name": "Foncier et nuisances",
+    "short_name": "Foncier et nuisances",
+    "description": "Site industriel de 20,6 ha proposé à l’AMI ; études détaillées d’impacts sonores et paysagers non disponibles dans ce lot.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_land"
+  },
+  {
+    "id": "actor_0039",
+    "type": "issue",
+    "name": "Logistique fluviale envisagée",
+    "short_name": "Logistique fluviale envisagée",
+    "description": "Intention communiquée par le maire de Montereau de privilégier le transport par la Seine pour les éléments de construction.",
+    "roles": [
+      {
+        "label": "Projet non contractualisé"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_road"
+  },
+  {
+    "id": "actor_0040",
+    "type": "issue",
+    "name": "Calendrier et autorisations",
+    "short_name": "Calendrier et autorisations",
+    "description": "Une première mise en service était annoncée pour 2027, tandis que seul le stade de négociations exclusives est confirmé par le communiqué de novembre 2025.",
+    "roles": [
+      {
+        "label": "Point de vigilance"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_timing"
+  },
+  {
+    "id": "actor_0041",
+    "type": "issue",
+    "name": "Souveraineté numérique et IA",
+    "short_name": "Souveraineté numérique et IA",
+    "description": "Argument avancé par les porteurs et l’État ; la localisation des installations ne prouve pas à elle seule la souveraineté juridique des données.",
+    "roles": [
+      {
+        "label": "Argument politique et stratégique"
+      }
+    ],
+    "categories": [
+      "vigilance"
+    ],
+    "display_in_cards": false,
+    "updated_at": "2026-11-05",
+    "slug": "theme_sovereignty"
+  }
+]
