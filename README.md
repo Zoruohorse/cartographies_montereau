@@ -29,7 +29,7 @@ Les données sont initialisées à partir des **20 ressources** de `Montereau.xl
 
 1. La puissance du projet est décrite dans l'annonce de 2025 comme *plusieurs centaines de mégawatts*, sans transformer automatiquement les données de sites Fast Track en MW attribués à OpCore.
 2. L'investissement d'**environ 4 Md€**, les **emplois projetés** et l'ouverture envisagée en **2027** sont des annonces prospectives, **non** des réalisations attestées au 5 novembre 2026.
-3. Le dernier stade contractuel explicitement confirmé par les sources principales consultées est l'annonce de **négociations exclusives EDF–OpCore** en novembre 2025. Ne pas conclure qu'aucun acte n'a eu lieu depuis ; l'état actuel exige une vérification supplémentaire.
+3. Les **négociations exclusives EDF–OpCore** ont été annoncées en novembre 2025, puis **EDF a déclaré un bail signé début mai 2026** dans sa présentation datée du 29 mai 2026 (diapositive 5). Cette signature ne prouve ni autorisation de construire, ni mise sous tension, ni livraison de capacités.
 4. Les **positions de critiques nationales des data centers** ne sont pas représentées comme une opposition organisée à Montereau. Les acteurs et projets de **Fouju** ne sont pas fusionnés avec ceux de Montereau.
 5. Les informations publiées à partir du texte du classeur, sans consultation intégrale du site d'origine, sont distinguées par `source.consultation`.
 6. Les propositions de **récupération de chaleur**, de **transport fluvial** et de **campus de formation** ne sont pas assimilées à des contrats ou installations confirmés.
@@ -65,9 +65,9 @@ Puis ouvrir `http://localhost:8000/`. Les requêtes `fetch()` sont bloquées en 
 
 ## Provenance et mise à jour
 
-Date d'arrêté : **5 novembre 2026**. Les sources et analyses des exclusions sont documentées dans `docs/RESSOURCES_LOT.md` et `docs/RAPPORT_INITIAL.md`.
+Date d'arrêté initial : **5 novembre 2026** ; mise à jour : **9 novembre 2026**. Les sources et analyses des exclusions sont documentées dans `docs/RESSOURCES_LOT.md` et `docs/RAPPORT_INITIAL.md`.
 
-**Publication** : le présent projet est un dépôt **préparé**, pas un dépôt distant créé automatiquement. La connexion GitHub utilisée ne dispose pas d'action de création de dépôt neuf. Aucun autre dépôt existant n'a été modifié.
+**Publication** : dépôt distant `Zoruohorse/cartographies_montereau` modifié directement sur la branche `main` le 9 novembre 2026.
 
 
 ## Actualisation du 9 novembre 2026 : cinq onglets
