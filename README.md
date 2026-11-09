@@ -68,3 +68,14 @@ Puis ouvrir `http://localhost:8000/`. Les requêtes `fetch()` sont bloquées en 
 Date d'arrêté : **5 novembre 2026**. Les sources et analyses des exclusions sont documentées dans `docs/RESSOURCES_LOT.md` et `docs/RAPPORT_INITIAL.md`.
 
 **Publication** : le présent projet est un dépôt **préparé**, pas un dépôt distant créé automatiquement. La connexion GitHub utilisée ne dispose pas d'action de création de dépôt neuf. Aucun autre dépôt existant n'a été modifié.
+
+
+## Actualisation du 9 novembre 2026 : cinq onglets
+
+**Évolution contractuelle majeure** : EDF indique dans sa présentation publique du 29 mai 2026 (diapositive 5, Institut Paris Region) qu'un **bail avec OpCore a été signé début mai 2026**. Il ne s'agit pas d'une autorisation, ni d'un début de travaux ou raccordement déjà réalisé. Pièces : `source_0023`, `evidence_0045`.
+
+La synthèse comporte neuf thèmes, avec références cliquables et preuves dépliables. La chronologie compte 11 jalons et sept repères techniques, en distinguant historique, annonces et projet 2027.
+
+Un cinquième onglet **Évolution des acteurs** contient les modes **Nouveaux / Cumulés / Par position** : 20 fiches, 18 acteurs datés (dont RTE daté au mois seulement) et deux parlementaires sans date de publication sûre de l'interview, conservés hors graphique. Parmi les 18 datés : 17 favorables, un neutre, aucun opposant documenté. Cela ne mesure pas l'opinion réelle de la population et ne retrace pas les changements de positions historiques.
+
+Références nouvelles : présentation EDF du 29 mai 2026 ; bulletin municipal Montereau 7 sur 7 du 29 avril 2026 ; article Évasion FM du 5 mars déjà présent. Les positions et les relations initiales sont conservées. Audit : `data/evolution-audit-20261109.json`.

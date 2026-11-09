@@ -1,6 +1,6 @@
 const DIR = '../../';
 export async function loadRepository(base=DIR){
-  const files={meta:'data/meta.json',actors:'data/actors.json',claims:'data/claims.json',evidence:'data/evidence.json',relations:'data/relations.json',sources:'data/sources.json',content:'data/content.json',synthesis:'data/synthesis.json',taxonomy:'config/taxonomy.json'};
+  const files={meta:'data/meta.json',actors:'data/actors.json',claims:'data/claims.json',evidence:'data/evidence.json',relations:'data/relations.json',sources:'data/sources.json',content:'data/content.json',synthesis:'data/synthesis.json',timeline:'data/timeline.json',taxonomy:'config/taxonomy.json'};
   const pairs=await Promise.all(Object.entries(files).map(async([key,path])=>{const resp=await fetch(base+path,{cache:'no-store'});if(!resp.ok)throw new Error(`Impossible de charger ${path} : ${resp.status}`);return[key,await resp.json()]}));
   const d=Object.fromEntries(pairs);
   d.actorById=new Map(d.actors.map(a=>[a.id,a]));d.evidenceById=new Map(d.evidence.map(e=>[e.id,e]));d.sourceById=new Map(d.sources.map(s=>[s.id,s]));d.claimByActor=new Map(d.claims.filter(c=>c.claim_type==='position').map(c=>[c.subject_id,c]));return d;

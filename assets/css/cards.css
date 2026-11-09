@@ -26,3 +26,11 @@
 .chrono-date{font-size:.78rem;font-weight:800;color:#2563eb;letter-spacing:.03em;text-transform:uppercase}
 .chrono-forecast .chrono-date{color:#b45309}
 #tab-timeline .listCard{margin-top:22px}
+
+/* Montereau 2026 : preuves détaillées et chronologie actualisée. */
+.synth-qualification{color:#475569;font-size:.88rem;line-height:1.45;margin-top:12px!important}
+.synth-proofs{margin-top:12px;border:1px solid #cbd5e1;border-radius:10px;padding:10px 12px}
+.synth-proofs summary{cursor:pointer;color:#334155;font-weight:700;font-size:.86rem}
+.synth-proof{border-top:1px solid #e2e8f0;padding:9px 0;margin-top:8px;font-size:.85rem;color:#475569}
+.synth-proof p{margin:0 0 6px}.synth-proof a{color:#2563eb;text-decoration:underline}
+#opposition-intro{margin-bottom:18px}.chrono-header{margin-bottom:20px}.chrono-header h2{font-size:1.45rem;margin:0 0 4px}.chrono-header p{color:#64748b;margin:0}
