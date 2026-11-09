@@ -7,14 +7,20 @@
         "evidence_0004",
         "evidence_0011",
         "evidence_0012"
-      ]
+      ],
+      "id": "grief_montereau_001",
+      "qualification": "La source EDF chiffre seulement la puissance à plusieurs centaines de MW ; aucune garantie de raccordement effectif ne résulte du dispositif Fast Track.",
+      "documented_local_opposition": false
     },
     {
       "title": "💧 Eau et refroidissement",
       "text": "Selon des responsables interrogés en novembre 2025, une conception à circuit fermé limiterait les prélèvements. Aucune consommation d’eau annuelle contractuelle ou mesurée pour ce site n’a été trouvée.",
       "evidence_ids": [
         "evidence_0031"
-      ]
+      ],
+      "id": "grief_montereau_002",
+      "qualification": "La conception avec refroidissement limitant les prélèvements est un propos rapporté ; aucune étude hydrique ou mesure d'exploitation n'est disponible.",
+      "documented_local_opposition": false
     },
     {
       "title": "🏭 Réhabilitation de la friche",
@@ -22,7 +28,10 @@
       "evidence_ids": [
         "evidence_0009",
         "evidence_0014"
-      ]
+      ],
+      "id": "grief_montereau_003",
+      "qualification": "La friche de 20,6 ha proposée en mars 2025 ne mesure pas la surface construite ni ne dispense d'examiner l'impact de l'aménagement.",
+      "documented_local_opposition": false
     },
     {
       "title": "👥 Emplois annoncés et insertion",
@@ -30,7 +39,10 @@
       "evidence_ids": [
         "evidence_0037",
         "evidence_0006"
-      ]
+      ],
+      "id": "grief_montereau_004",
+      "qualification": "Les emplois directs, indirects et les clauses d'insertion doivent être vérifiés séparément. Les déclarations des maires sont des attentes politiques, non des créations constatées.",
+      "documented_local_opposition": false
     },
     {
       "title": "♨️ Valorisation locale de chaleur",
@@ -38,21 +50,30 @@
       "evidence_ids": [
         "evidence_0028",
         "evidence_0032"
-      ]
+      ],
+      "id": "grief_montereau_005",
+      "qualification": "La récupération de chaleur est une piste souhaitée localement ; sans étude ni convention de fourniture, aucune retombée thermique chiffrée n'est acquise.",
+      "documented_local_opposition": false
     },
     {
       "title": "🗣️ Dialogue et acceptabilité",
       "text": "Les trois maires ont demandé un dialogue transparent avec les habitants. Aucune opposition locale structurée au seul projet Montereau n’est démontrée par le lot, mais l’absence de détection ne garantit pas un consensus.",
       "evidence_ids": [
         "evidence_0020"
-      ]
+      ],
+      "id": "grief_montereau_006",
+      "qualification": "Les exigences des trois maires datent déjà de mars 2025, sans constituer des oppositions formelles ; aucun collectif anti-Montereau n'est identifié dans le corpus.",
+      "documented_local_opposition": false
     },
     {
       "title": "🚢 Transport pendant le chantier",
       "text": "Le bulletin municipal mentionne la possibilité d’acheminer des éléments par la Seine. Il s’agit d’une orientation politique, pas d’un marché logistique signé.",
       "evidence_ids": [
         "evidence_0033"
-      ]
+      ],
+      "id": "grief_montereau_007",
+      "qualification": "Le transport par la Seine est une orientation évoquée par la Ville ; aucun opérateur ni contrat de chantier n'est démontré.",
+      "documented_local_opposition": false
     },
     {
       "title": "⚖️ Critiques nationales / distinction Fouju",
@@ -60,16 +81,29 @@
       "evidence_ids": [
         "evidence_0036",
         "evidence_0039"
-      ]
+      ],
+      "id": "grief_montereau_008",
+      "qualification": "L'opinion critique d'Arnaud Saint-Martin concerne des grands data centers et Fouju ; elle ne constitue pas une opposition au projet sur la friche EDF de Montereau.",
+      "documented_local_opposition": false
+    },
+    {
+      "id": "grief_montereau_009",
+      "title": "📄 Bail foncier signé, autres autorisations non démontrées",
+      "text": "EDF indique qu'un bail a été signé avec OpCore début mai 2026. Cette nouvelle étape contractualisée ne démontre cependant ni obtention des permis, ni mise en chantier, ni livraison de la capacité électrique.",
+      "qualification": "Évolution étayée par une présentation EDF du 29 mai 2026 ; ne plus décrire les négociations de novembre 2025 comme dernière étape connue.",
+      "evidence_ids": [
+        "evidence_0045"
+      ],
+      "documented_local_opposition": false
     }
   ],
   "vigilance": [
     {
-      "title": "Stade juridique du partenariat",
-      "text": "Le communiqué EDF documente des négociations exclusives lancées le 17 novembre 2025. Aucun acte final plus récent, permis ou démarrage avéré ne ressort des sources retenues au 5 novembre 2026.",
+      "title": "Bail signé (mai 2026) — autorisations encore à établir",
+      "text": "EDF rapporte qu'un bail a été signé avec OpCore début mai 2026 dans une présentation du 29 mai. Cela corrige le stade des seules négociations exclusives citées en novembre 2025. Aucun permis, décision environnementale, chantier ou mise en service ne découle automatiquement du bail.",
       "evidence_ids": [
         "evidence_0001",
-        "evidence_0044"
+        "evidence_0045"
       ]
     },
     {
@@ -165,5 +199,16 @@
     "source_0019",
     "source_0020"
   ],
-  "method": "Enjeux et griefs attribués aux acteurs ou formulés comme questions de vigilance ; aucune appréciation présentée comme un dommage constaté sans étude propre au site."
+  "method": "Chaque thème est un point de vigilance ou une position attribuée, avec référence documentaire et extrait de preuve. Une réserve municipale, une analyse journalistique ou une critique nationale ne constitue pas à elle seule une opposition organisée locale.",
+  "opposition_status": {
+    "documented_local_opponents": 0,
+    "as_of": "2026-11-09",
+    "description": "Aucun collectif local formellement opposé au seul projet EDF–OpCore de Montereau n’est établi dans les sources examinées. Les trois maires ont formulé des conditions d'accompagnement ; des critiques nationales de data centers concernent notamment un autre site (Fouju). Cette absence de preuve ne signifie pas un consensus.",
+    "evidence_ids": [
+      "evidence_0047",
+      "evidence_0036",
+      "evidence_0039"
+    ]
+  },
+  "updated_at": "2026-11-09"
 }

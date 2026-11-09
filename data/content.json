@@ -1,5 +1,5 @@
 {
-  "project_status": "Négociations exclusives annoncées le 17 novembre 2025 ; état final non vérifié au 5 novembre 2026",
+  "project_status": "Bail EDF–OpCore signé début mai 2026 selon la présentation EDF datée du 29 mai ; aucune autorisation de construire, mise sous tension ou mise en service n'est établie dans le corpus examiné au 9 novembre 2026.",
   "project_summary": "Projet industriel de data center OpCore sur l’ancienne centrale EDF dite de Montereau, située sur les territoires de La Grande-Paroisse et Vernou-la-Celle-sur-Seine.",
   "fact_sheet": [
     {
@@ -50,6 +50,14 @@
       "evidence_ids": [
         "evidence_0007"
       ]
+    },
+    {
+      "label": "Stade foncier et contractuel",
+      "value": "Bail signé début mai 2026 (selon EDF)",
+      "qualifier": "Présentation EDF du 29 mai 2026, diapositive 5. Les autorisations, chantiers et raccordement ne sont pas prouvés par cette seule mention.",
+      "evidence_ids": [
+        "evidence_0045"
+      ]
     }
   ],
   "milestones": [
@@ -85,6 +93,16 @@
       ]
     },
     {
+      "date": "2025-03-05",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Réaction publique des trois maires",
+      "details": "James Chéron, Emmanuel Ledoux et Alain Momon demandent que le projet favorise l'emploi local, respecte l'environnement et fasse l'objet d'une information publique ; demandes attribuées à ces élus, non oppositions formelles.",
+      "evidence_ids": [
+        "evidence_0047"
+      ]
+    },
+    {
       "date": "2025-05",
       "period_precision": "month",
       "status": "completed",
@@ -104,6 +122,48 @@
       "evidence_ids": [
         "evidence_0001",
         "evidence_0003"
+      ]
+    },
+    {
+      "date": "2025-11-19",
+      "period_precision": "day",
+      "status": "completed",
+      "title": "Engagement municipal sur l'emploi, la chaleur et le transport fluvial",
+      "details": "Le bulletin Montereau 7/7 présente le soutien conditionnel des maires, la perspective d'environ 100 emplois directs, la chaleur récupérable et le transport fluvial envisagé ; ces objectifs ne sont pas réalisés.",
+      "evidence_ids": [
+        "evidence_0021",
+        "evidence_0032",
+        "evidence_0033"
+      ]
+    },
+    {
+      "date": "2026-04-22",
+      "period_precision": "day",
+      "status": "reported",
+      "title": "Mise en avant nationale du projet, rapportée par la municipalité",
+      "details": "Selon le bulletin municipal du 29 avril, le projet de data center fait partie de 150 projets industriels évoqués lors d'une séquence présidentielle du 22 avril. Information rapportée par le maire, sans en déduire une autorisation.",
+      "evidence_ids": [
+        "evidence_0046"
+      ]
+    },
+    {
+      "date": "2026-05",
+      "period_precision": "month",
+      "status": "contractual_reported",
+      "title": "Bail signé entre EDF et OpCore, selon EDF",
+      "details": "Dans une présentation datée du 29 mai 2026, EDF indique qu'un bail a été signé avec OpCore début mai. Le jour précis et les clauses ne sont pas publiés dans la pièce ; cela ne prouve ni permis, ni travaux, ni mise sous tension.",
+      "evidence_ids": [
+        "evidence_0045"
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "period_precision": "day",
+      "status": "documented",
+      "title": "EDF rend publique la signature du bail",
+      "details": "Présentation EDF lors d'un webinaire daté du 29 mai 2026 (diapositive 5), mentionnant explicitement le bail déjà signé début mai.",
+      "evidence_ids": [
+        "evidence_0045"
       ]
     },
     {
@@ -148,5 +208,6 @@
       "status": "not_identified",
       "description": "Pas d’opposants nommés de façon attribuable à ce seul projet."
     }
-  ]
+  ],
+  "method": "Chronologie officielle et médiatique : distinguer l'AMI de mars 2025, les négociations de novembre 2025, le bail signalé signé début mai 2026 par EDF et le calendrier prévisionnel 2027. Toute mesure est attribuée à sa source."
 }

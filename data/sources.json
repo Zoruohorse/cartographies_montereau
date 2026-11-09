@@ -284,5 +284,31 @@
     "consultation": "directly_consulted",
     "scope": "independent_assessment",
     "accessed_at": "2026-11-05"
+  },
+  {
+    "id": "source_0023",
+    "key": "edf_iParis_region_20260529",
+    "title": "Stratégie EDF pour l’accueil de data centers — présentation du 29 mai 2026 (diapositive 5 : bail Montereau signé début mai)",
+    "publisher": "EDF / Institut Paris Region",
+    "author": "EDF",
+    "published_at": "2026-05-29",
+    "url": "https://www.institutparisregion.fr/fileadmin/DataStorage/SavoirFaire/NosTravaux/Amenagement/webinairesDataCenters/2/7_EDF_strategie_DC.pdf",
+    "source_type": "primary",
+    "consultation": "directly_consulted",
+    "scope": "project",
+    "accessed_at": "2026-11-09"
+  },
+  {
+    "id": "source_0024",
+    "key": "montereau_municipal_20260429",
+    "title": "Montereau 7 sur 7 n°1108 (29 avril–6 mai 2026) : projet Data Center Montereau mis en avant",
+    "publisher": "Ville de Montereau-Fault-Yonne",
+    "author": "James Chéron",
+    "published_at": "2026-04-29",
+    "url": "https://www.ville-montereau77.fr/app/uploads/1/2026/05/1108.pdf",
+    "source_type": "primary",
+    "consultation": "directly_consulted",
+    "scope": "project",
+    "accessed_at": "2026-11-09"
   }
 ]

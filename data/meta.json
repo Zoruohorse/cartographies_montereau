@@ -2,13 +2,14 @@
   "id": "project_montereau",
   "title": "Cartographie territoriale — Data center EDF–OpCore • Montereau",
   "subtitle": "Ancienne centrale thermique de Montereau-Vallée-de-la-Seine : Vernou-la-Celle-sur-Seine / La Grande-Paroisse. Négociations exclusives annoncées en 2025 ; faits, attentes et vigilances sourcés.",
-  "last_updated": "2026-11-05",
+  "last_updated": "2026-11-09",
   "created_at": "2026-11-05",
-  "data_notice": "Cartographie inaugurale, construite à partir de Montereau.xlsx (20 documents) et de publications publiques vérifiées. Les informations attribuées aux élus et aux porteurs restent des déclarations, pas des faits opérationnels constatés. Les articles uniquement accessibles via le classeur sont identifiés.",
-  "method_version": "1.0.0",
+  "data_notice": "Cartographie inaugurale, construite à partir de Montereau.xlsx (20 documents) et de publications publiques vérifiées. Les informations attribuées aux élus et aux porteurs restent des déclarations, pas des faits opérationnels constatés. Les articles uniquement accessibles via le classeur sont identifiés. Actualisation au 9 novembre 2026 : bail EDF–OpCore signalé signé début mai 2026 dans une présentation EDF, 9 thèmes de synthèse sourcés, chronologie enrichie et onglet Évolution des acteurs (Nouveaux / Cumulés / Par position). Aucune opposition locale formelle documentée à Montereau.",
+  "method_version": "1.1.0",
   "central_project": "project_montereau",
   "baseline": "initial_creation",
   "source_workbook_count": 20,
   "source_workbook": "Montereau.xlsx",
-  "source_policy": "source URL obligatoire pour toute preuve publiée; une mention de projet voisin ne justifie pas de lien direct."
+  "source_policy": "source URL obligatoire pour toute preuve publiée; une mention de projet voisin ne justifie pas de lien direct.",
+  "evolution_note": "Une première apparition datée ne présume pas de la première prise de position historique. Les positions catégorisées sont celles des fiches, les acteurs seulement contextuels sont isolés."
 }

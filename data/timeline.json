@@ -1,0 +1,422 @@
+[
+  {
+    "id": "timeline_montereau_0005",
+    "actor_id": "actor_0005",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-03",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0010"
+    ],
+    "confidence": "high",
+    "date_basis": "L'annonce EDF du 17 novembre 2025 rappelle l'AMI lancé le 3 mars ; première intervention d'EDF dans le dossier, date de l'AMI, pas date du communiqué.",
+    "summary": "Propriétaire foncier favorable à la reconversion industrielle ; a annoncé des négociations exclusives avec OpCore.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0018",
+    "actor_id": "actor_0018",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "high",
+    "date_basis": "L'article Évasion FM du 5 mars 2025 rapporte l'appel des trois maires pour l'environnement et l'emploi local.",
+    "summary": "Soutien politique conditionné au dialogue public, à l’insertion professionnelle locale et à l’intégration environnementale.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0019",
+    "actor_id": "actor_0019",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "high",
+    "date_basis": "Évasion FM du 5 mars 2025 rapporte que les trois maires, dont celui de La Grande-Paroisse, demandent des garanties d'insertion environnementale et d'emploi.",
+    "summary": "Soutient la reconversion de l’ex-centrale et insiste sur les emplois locaux et la transparence.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0020",
+    "actor_id": "actor_0020",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "high",
+    "date_basis": "Évasion FM du 5 mars 2025 rapporte que les trois maires, dont celui de Vernou-la-Celle-sur-Seine, demandent garanties environnementales et emploi local.",
+    "summary": "Soutient la reconversion sous condition d’intégration territoriale ; souhaite examiner un usage communal de la chaleur récupérée.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0024",
+    "actor_id": "actor_0024",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "high",
+    "date_basis": "Première expression publique du maire de La Grande-Paroisse le 5 mars 2025 : présence institutionnelle reconstituée via son représentant, sans déduire une délibération.",
+    "summary": "Commune d’accueil dont le maire a cosigné les exigences d’emploi local, de concertation et d’intégration environnementale.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0025",
+    "actor_id": "actor_0025",
+    "event_type": "first_documented_appearance",
+    "date": "2025-03-05",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0014"
+    ],
+    "evidence_ids": [
+      "evidence_0047"
+    ],
+    "confidence": "high",
+    "date_basis": "Première expression publique du maire de Vernou le 5 mars 2025 : présence institutionnelle via son représentant, sans prétendre à un vote.",
+    "summary": "Commune d’accueil dont le maire a exprimé un soutien conditionnel et un intérêt pour la chaleur fatale.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0009",
+    "actor_id": "actor_0009",
+    "event_type": "first_documented_appearance",
+    "date": "2025-05",
+    "date_precision": "month",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "energie",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0003"
+    ],
+    "evidence_ids": [
+      "evidence_0011"
+    ],
+    "confidence": "medium",
+    "date_basis": "RTE situe Montereau dans la première série de sites Fast Track officialisés en mai 2025 ; précision mensuelle seulement, non un raccordement achevé.",
+    "summary": "Gestionnaire du réseau et du dispositif Fast Track ; sa mission technique n’est pas une prise de position politique et le raccordement réalisé n’est pas établi.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0006",
+    "actor_id": "actor_0006",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0001"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Porteur identifié des négociations exclusives, avec investissement d’environ 4 Md€ annoncé ; réalisation encore à confirmer.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0007",
+    "actor_id": "actor_0007",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Groupe actionnaire d’OpCore dont le DG Thomas Reynaud soutient explicitement le projet.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0008",
+    "actor_id": "actor_0008",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0008"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Fonds gérés par InfraVia dans OpCore ; Vincent Levita soutient le partenariat annoncé.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0011",
+    "actor_id": "actor_0011",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "etat",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Soutien national exprimé par les ministres lors de l’annonce, dans le cadre de la stratégie numérique et Fast Track.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0012",
+    "actor_id": "actor_0012",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0015"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Défend la reconversion de l’ancien site EDF et le raccordement rapide des futurs centres de calcul.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0013",
+    "actor_id": "actor_0013",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0016"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Soutient explicitement le projet au titre de l’infrastructure souveraine et de l’innovation IA européenne.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0014",
+    "actor_id": "actor_0014",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0017"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Se félicite du partenariat EDF–OpCore et défend l’usage d’électricité bas carbone pour le calcul intensif.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0015",
+    "actor_id": "actor_0015",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "entreprises",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0009"
+    ],
+    "evidence_ids": [
+      "evidence_0030"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Président du porteur industriel ; soutient le projet et présente des objectifs environnementaux encore prospectifs.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0016",
+    "actor_id": "actor_0016",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "etat",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0019"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Salue expressément l’investissement annoncé de 4 Md€ et la place de Montereau dans la stratégie d’IA.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0017",
+    "actor_id": "actor_0017",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-17",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "etat",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0001"
+    ],
+    "evidence_ids": [
+      "evidence_0018"
+    ],
+    "confidence": "high",
+    "date_basis": "Première date de publication retrouvée dans les preuves de la fiche : 2025-11-17. Cela ne date pas nécessairement la première prise de position historique.",
+    "summary": "Présente l’investissement comme un facteur de réindustrialisation et de création d’emplois.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0023",
+    "actor_id": "actor_0023",
+    "event_type": "first_documented_appearance",
+    "date": "2025-11-19",
+    "date_precision": "day",
+    "status": "confirmed",
+    "scope": "direct",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0005"
+    ],
+    "evidence_ids": [
+      "evidence_0021"
+    ],
+    "confidence": "high",
+    "date_basis": "Bulletin municipal du 19 novembre 2025 : engagement de la Ville sur le projet et les mesures souhaitées.",
+    "summary": "La municipalité soutient l’insertion territoriale du projet, notamment formation et transport fluvial envisagés.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0021",
+    "actor_id": "actor_0021",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "elus",
+    "stance": "favorable",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0035"
+    ],
+    "confidence": "low",
+    "date_basis": "Source documentaire conservée, mais date de publication non confirmée : acteur non placé dans le graphique.",
+    "summary": "Soutien explicite aux data centers seine-et-marnais, notamment Vernou ; ses appréciations techniques ne sont pas des mesures indépendantes.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  },
+  {
+    "id": "timeline_montereau_0022",
+    "actor_id": "actor_0022",
+    "event_type": "first_documented_appearance",
+    "date": null,
+    "date_precision": "unknown",
+    "status": "undated",
+    "scope": "context",
+    "category": "autres",
+    "stance": "neutral",
+    "source_ids": [
+      "source_0008"
+    ],
+    "evidence_ids": [
+      "evidence_0036"
+    ],
+    "confidence": "low",
+    "date_basis": "Source documentaire conservée, mais date de publication non confirmée : acteur non placé dans le graphique.",
+    "summary": "Critique les hyperscalers et le projet distinct de Fouju, mais n’est pas identifié comme opposant au site de Montereau et juge la reconversion d’une friche plutôt pertinente.",
+    "stance_basis": "Position conservée de la fiche au 9 novembre 2026 ; un graphe classé par position ne retrace pas les changements d'opinion."
+  }
+]

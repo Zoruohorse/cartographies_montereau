@@ -147,5 +147,61 @@
       "label": "Couverture médiatique",
       "directed": true
     }
+  },
+  "timeline": {
+    "event_type": "first_documented_appearance",
+    "grouping": "month",
+    "default_mode": "cumulative",
+    "default_scope": "direct",
+    "categories": [
+      {
+        "id": "elus",
+        "label": "Élus et collectivités",
+        "color": "#7277c7"
+      },
+      {
+        "id": "entreprises",
+        "label": "Porteurs et investisseurs",
+        "color": "#119c89"
+      },
+      {
+        "id": "energie",
+        "label": "Réseau et régulation",
+        "color": "#4689c2"
+      },
+      {
+        "id": "etat",
+        "label": "État et cadre national",
+        "color": "#aa7ccb"
+      },
+      {
+        "id": "autres",
+        "label": "Autres",
+        "color": "#d1945a"
+      }
+    ],
+    "stances": [
+      {
+        "id": "favorable",
+        "label": "Favorables ou soutiens",
+        "color": "#16a34a"
+      },
+      {
+        "id": "opposed",
+        "label": "Opposants documentés",
+        "color": "#dc2626"
+      },
+      {
+        "id": "neutral",
+        "label": "Prudents, techniques ou critiques générales",
+        "color": "#f59e0b"
+      },
+      {
+        "id": "unknown",
+        "label": "Position non établie",
+        "color": "#94a3b8"
+      }
+    ],
+    "methodology": "Date du premier événement attesté ou de la première publication identifiée dans le corpus ; les pièces rétrospectives (AMI du 3 mars, Fast Track de mai) sont signalées. Le graphique Par position classe les positions enregistrées dans les fiches, sans prétendre dater leurs changements. Les critiques sur Fouju ne sont pas une opposition à Montereau."
   }
 }

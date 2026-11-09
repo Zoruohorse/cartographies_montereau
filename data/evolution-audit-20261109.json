@@ -1,0 +1,61 @@
+{
+  "as_of": "2026-11-09",
+  "repo": "Zoruohorse/cartographies_montereau",
+  "baseline": {
+    "entities": 42,
+    "claim_positions": 20,
+    "relations": "not_modified",
+    "evidence": 44,
+    "sources": 22,
+    "milestones": 6,
+    "grievance_topics": 8
+  },
+  "updated": {
+    "new_evidence": 3,
+    "new_sources": 2,
+    "chronology": 11,
+    "facts": 7,
+    "grievance_topics": 9,
+    "actors_all": 20,
+    "dated": 18,
+    "undated": 2,
+    "direct_dated": 18,
+    "context_dated": 0
+  },
+  "classification": {
+    "favorable": 17,
+    "opposed": 0,
+    "neutral": 1,
+    "unknown": 0
+  },
+  "months": {
+    "2025-03": 6,
+    "2025-05": 1,
+    "2025-11": 11
+  },
+  "exclusions": [
+    {
+      "actor_id": "actor_0021",
+      "reason": "Source documentaire conservée, mais date de publication non confirmée : acteur non placé dans le graphique."
+    },
+    {
+      "actor_id": "actor_0022",
+      "reason": "Source documentaire conservée, mais date de publication non confirmée : acteur non placé dans le graphique."
+    }
+  ],
+  "crucial_correction": "Présentation EDF 29 mai 2026, page 5 : bail signé avec OpCore début mai. Ce n'est ni une autorisation ni une mise en service.",
+  "excluded_categories": "sites, territoires génériques, médias et objets de vigilance exclus des graphiques ; seuls les 20 acteurs possédant une fiche de position ont été analysés.",
+  "caveats": [
+    "Date mensuelle retenue pour RTE, faute de jour individualisé.",
+    "Aucune opposition locale formelle identifiée dans ces sources ≠ consensus.",
+    "Entretien de deux députés Actu sans date de publication fiable dans les données : non comptés.",
+    "Premières mentions du corpus ≠ dates réelles d'entrée en politique ni de changement de position.",
+    "Le bail signé est un jalon foncier déclaré par EDF, pas une garantie de raccordement.",
+    "Les nouvelles références sont issues de présentations EDF et du bulletin municipal : fichiers PDF directs."
+  ],
+  "unchanged": [
+    "data/actors.json",
+    "data/claims.json",
+    "data/relations.json"
+  ]
+}

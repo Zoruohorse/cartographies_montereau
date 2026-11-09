@@ -526,5 +526,41 @@
     "published_at": "2025-11-17",
     "accessed_at": "2026-11-05",
     "status": "confirmed_or_attributed"
+  },
+  {
+    "id": "evidence_0045",
+    "type": "reported_summary",
+    "text": "Lors d'un exposé daté du 29 mai 2026 publié par l'Institut Paris Region, EDF indique explicitement qu'un bail a été signé avec OpCore pour le site de Montereau début mai 2026. Le document ne fournit pas le jour de signature, ni ne prouve un permis ou une mise en service.",
+    "summary": "EDF déclare un bail signé début mai 2026 avec OpCore à Montereau.",
+    "source_id": "source_0023",
+    "source_status": "qualified",
+    "source_location": "Présentation EDF, diapositive 5 (page PDF 5), conférence du 29 mai 2026",
+    "published_at": "2026-05-29",
+    "accessed_at": "2026-11-09",
+    "status": "confirmed_or_attributed"
+  },
+  {
+    "id": "evidence_0046",
+    "type": "reported_summary",
+    "text": "Dans le bulletin municipal n°1108 publié pour le 29 avril–6 mai 2026, James Chéron indique que le projet Montereau–Vallée de la Seine figure parmi les 150 grands projets industriels mis en avant le 22 avril ; cette qualification est une déclaration du maire.",
+    "summary": "La municipalité rapporte en avril 2026 une mise en avant nationale du data center.",
+    "source_id": "source_0024",
+    "source_status": "qualified",
+    "source_location": "Bulletin municipal n°1108, page 1, « Montereau au rendez-vous des grands projets industriels »",
+    "published_at": "2026-04-29",
+    "accessed_at": "2026-11-09",
+    "status": "confirmed_or_attributed"
+  },
+  {
+    "id": "evidence_0047",
+    "type": "reported_summary",
+    "text": "Le reportage d'Évasion FM du 5 mars 2025 indique que les maires de La Grande-Paroisse, de Vernou-la-Celle-sur-Seine et de Montereau, James Chéron, demandent respect de l'environnement et priorité à l'emploi local pour le projet annoncé par EDF.",
+    "summary": "Position commune de vigilance constructive des trois maires rapportée le 5 mars 2025.",
+    "source_id": "source_0014",
+    "source_status": "qualified",
+    "source_location": "Évasion FM, article du 5 mars 2025",
+    "published_at": "2025-03-05",
+    "accessed_at": "2026-11-09",
+    "status": "confirmed_or_attributed"
   }
 ]
